@@ -79,6 +79,40 @@ h1 {
     
 }
 
+button{
+  background-color: #002A00;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  height: 40px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+#button2{
+  background-color: #002A00;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  height: 40px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  width: 200px;
+  text-align: center;
+}
+
+.cssChange {
+  background-color: #245425;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  height: 40px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  
+  
+}
+
 
 
 p.one{
